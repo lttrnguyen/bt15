@@ -1,0 +1,33 @@
+img {
+  width: 100px;
+  float: right;
+}
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+
+h1 {
+  color: orange;
+  text-align: center;
+}
+
+.content {
+  display: flex;
+  align-items: flex-start;
+}
+
+.dropcap {
+  float: left;
+  font-size: 3em;
+  line-height: 1;
+  padding-right: 10px;
+  color: orange;
+  font-weight: bold;
+}
